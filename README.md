@@ -29,7 +29,8 @@ Desenvolver as funcionalidades conforme requisitos
 - VsCode (IDE)
 - Insomnia (IDE de testes)
 - Prisma (ORM)
-- XAMPP (IDE) SGBD MySQL
+- XAMPP (IDE)
+- MySQL (SGBD) 
 
 ## Passo a Passo de como executar a API
 
